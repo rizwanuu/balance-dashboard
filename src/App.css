@@ -1,0 +1,10 @@
+/* Hide the horizontal and vertical scrollbars */
+body {
+    /* overflow: hidden; */
+  }
+  
+  /* For WebKit-based browsers (Chrome, Safari) */
+  body::-webkit-scrollbar {
+    display: none;
+  }
+  
