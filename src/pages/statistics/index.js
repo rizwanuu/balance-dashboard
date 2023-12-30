@@ -27,7 +27,7 @@ const Statistics = () => {
 
   return (
     <>
-      <div className="flex w-full p-5">
+      <div className="flex w-full px-5 py-8">
         <div className="w-1/6">
           <StatisticsSideBar />
         </div>
